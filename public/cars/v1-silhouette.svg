@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" fill="none">
+  <defs>
+    <linearGradient id="v1bg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121214"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+    <linearGradient id="v1gold" x1="200" y1="300" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B89B5E" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#F2F0EB" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#B89B5E" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="v1glow" cx="600" cy="380" r="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B89B5E" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#B89B5E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#v1bg)"/>
+  <circle cx="600" cy="380" r="450" fill="url(#v1glow)"/>
+  <path d="M120 420 C220 420 280 400 340 370 C410 335 500 240 680 230 C820 222 920 280 1020 360 C1070 400 1110 415 1160 420 L1150 440 C1080 440 1020 410 960 410 C910 410 880 440 780 440 L440 440 C340 440 320 410 260 410 C200 410 160 440 110 440 Z" fill="#18191C" stroke="#2D2F35" stroke-width="2"/>
+  <path d="M320 375 C420 330 520 245 680 235 C790 228 870 280 950 355" stroke="url(#v1gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M510 260 C600 245 720 245 800 285 L840 345 L460 345 Z" fill="#0C0D0E" stroke="#B89B5E" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle cx="330" cy="425" r="70" fill="#0E0F11" stroke="#333" stroke-width="4"/>
+  <circle cx="330" cy="425" r="46" fill="#161719" stroke="#B89B5E" stroke-width="2"/>
+  <circle cx="890" cy="425" r="70" fill="#0E0F11" stroke="#333" stroke-width="4"/>
+  <circle cx="890" cy="425" r="46" fill="#161719" stroke="#B89B5E" stroke-width="2"/>
+  <path d="M1020 365 L1060 370" stroke="#FF3333" stroke-width="4" stroke-linecap="round"/>
+  <path d="M170 405 L230 408" stroke="#F2F0EB" stroke-width="4" stroke-linecap="round"/>
+  <text x="600" y="530" font-family="'Cinzel', serif" font-size="28" letter-spacing="10" fill="#F2F0EB" text-anchor="middle">VÉLOCÉ V1</text>
+  <text x="600" y="560" font-family="'Inter', sans-serif" font-size="12" letter-spacing="4" fill="#B89B5E" text-anchor="middle">620 HP · 3.1S 0-100 · 312 KM/H</text>
+</svg>
