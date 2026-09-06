@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" fill="none">
+  <defs>
+    <linearGradient id="x1bg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141416"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#x1bg)"/>
+  <path d="M110 430 C180 430 240 400 300 370 C370 330 440 230 640 215 C820 205 920 235 1010 320 C1060 370 1100 410 1150 430 Z" fill="#18191C" stroke="#333" stroke-width="2"/>
+  <circle cx="320" cy="430" r="75" fill="#0D0E10" stroke="#444" stroke-width="4"/>
+  <circle cx="910" cy="430" r="75" fill="#0D0E10" stroke="#444" stroke-width="4"/>
+  <text x="600" y="530" font-family="'Cinzel', serif" font-size="28" letter-spacing="10" fill="#F2F0EB" text-anchor="middle">VÉLOCÉ X1</text>
+  <text x="600" y="560" font-family="'Inter', sans-serif" font-size="12" letter-spacing="4" fill="#B89B5E" text-anchor="middle">710 HP · ALL-TERRAIN ARCHITECTURE</text>
+</svg>
