@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" fill="none">
+  <defs>
+    <linearGradient id="s1bg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101317"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#s1bg)"/>
+  <path d="M120 420 C220 415 310 365 420 310 C540 250 710 240 850 270 C960 300 1050 370 1140 420 Z" fill="#13161A" stroke="#252A30" stroke-width="2"/>
+  <circle cx="330" cy="425" r="68" fill="#0B0E12" stroke="#374151" stroke-width="3"/>
+  <circle cx="890" cy="425" r="68" fill="#0B0E12" stroke="#374151" stroke-width="3"/>
+  <text x="600" y="530" font-family="'Cinzel', serif" font-size="28" letter-spacing="10" fill="#F2F0EB" text-anchor="middle">VÉLOCÉ S1</text>
+  <text x="600" y="560" font-family="'Inter', sans-serif" font-size="12" letter-spacing="4" fill="#B89B5E" text-anchor="middle">840 HP · 2.4S 0-100 · SILENT VELOCITY</text>
+</svg>
