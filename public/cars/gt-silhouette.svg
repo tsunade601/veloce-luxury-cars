@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" fill="none">
+  <defs>
+    <linearGradient id="gtbg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151212"/>
+      <stop offset="1" stop-color="#090909"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#gtbg)"/>
+  <path d="M110 425 C240 425 360 380 470 330 C580 280 730 250 860 270 C970 290 1060 360 1140 425 Z" fill="#191515" stroke="#332B2B" stroke-width="2"/>
+  <circle cx="340" cy="425" r="70" fill="#0F0C0C" stroke="#4A3F3F" stroke-width="3"/>
+  <circle cx="900" cy="425" r="70" fill="#0F0C0C" stroke="#4A3F3F" stroke-width="3"/>
+  <text x="600" y="530" font-family="'Cinzel', serif" font-size="28" letter-spacing="10" fill="#F2F0EB" text-anchor="middle">VÉLOCÉ GT</text>
+  <text x="600" y="560" font-family="'Inter', sans-serif" font-size="12" letter-spacing="4" fill="#B89B5E" text-anchor="middle">680 HP · 8,500 RPM V12 · GRAN TURISMO</text>
+</svg>
